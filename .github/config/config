@@ -1,0 +1,3 @@
+[remote "origin"]
+        url = https://manoj4724:TOKEN@huggingface.co/spaces/manoj4724/instant_ngp
+        fetch = +refs/heads/:refs/remotes/origin/
